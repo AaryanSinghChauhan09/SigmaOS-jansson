@@ -3,7 +3,7 @@ name = "SigmaOS-jansson"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "jansson component"
+description = "SigmaOS SigmaOS-jansson component"
 upstream = []
 
 [contract]
